@@ -1,0 +1,9 @@
+To check the flask server is running or not
+
+Use:-
+http://0.0.0.0:8000/health
+
+
+To check Nginx is running or not
+Use:-
+http://0.0.0.0/health
